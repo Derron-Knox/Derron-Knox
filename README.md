@@ -12,10 +12,7 @@ I thrive on building automation workflows, integrating APIs, and fostering colla
 
 <div align="center">
 
-[![AWS Mattermost](https://github-readme-stats.vercel.app/api/pin/?username=Derron-Knox&repo=AWS_Mattermost&theme=radical)](https://github.com/Derron-Knox/AWS_Mattermost)
-[![AWS Wordpress](https://github-readme-stats.vercel.app/api/pin/?username=Derron-Knox&repo=AWS_Wordpress&theme=radical)](https://github.com/Derron-Knox/AWS_Wordpress)
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Derron-Knox&repo=DiscordBot&theme=radical)](https://github.com/Derron-Knox/DiscordBot)
-[![Nextcloud](https://github-readme-stats.vercel.app/api/pin/?username=Derron-Knox&repo=Nextcloud&theme=radical)](https://github.com/Derron-Knox/Nextcloud)
+[![bookstack-mcp-server]([https://github-readme-stats.vercel.app/api/pin/?username=Derron-Knox&repo=AWS_Mattermost&theme=radical)](https://github.com/Derron-Knox/AWS_Mattermost](https://github.com/Derron-Knox/bookstack-mcp-server))
 
 </div>
 
